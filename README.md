@@ -1,7 +1,7 @@
 # Assignment_2
 Repository for assignment 2
 dstest
-atest2
+datest2
 dstest3
 test4
 test5
