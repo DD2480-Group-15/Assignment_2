@@ -2,7 +2,7 @@
 Repository for assignment 2
 stest
 atest2
-test3
+stest3
 test4
 test5
 test6
