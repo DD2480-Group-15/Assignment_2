@@ -1,6 +1,6 @@
 # Assignment_2
 Repository for assignment 2
-stest
+dstest
 atest2
 dstest3
 test4
