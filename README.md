@@ -2,7 +2,7 @@
 Repository for assignment 2
 xdstest
 ddxdatest2
-dstest3
+xdstest3
 test4
 dctest5
 test6
