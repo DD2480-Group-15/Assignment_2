@@ -1,7 +1,7 @@
 # Assignment_2
 Repository for assignment 2
 xdstest
-ddxdatest2
+xddxdatest2
 xxdstest3
 test4
 dctest5
