@@ -2,7 +2,7 @@
 Repository for assignment 2
 ++
 xdx
-ccn
+cccn
 cc
 c
 c
