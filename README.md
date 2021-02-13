@@ -3,7 +3,7 @@ Repository for assignment 2
 d++
 xdx
 cccn
-cc
+ccc
 c
 c
 hello
