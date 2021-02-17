@@ -1,3 +1,3 @@
 # Assignment_2
-Repository for assignment 2
+Repository fo assignment 2
 ++
